@@ -1,6 +1,7 @@
 # Welcome to MedAssist
 
 <img src="public/favicon.png" alt="Medical Assistant App Screenshot" width="100" height="100"/>
+
 ### Your all-time medical companion, this app delivers instant health insights, appointment scheduling, and personalized care tips with a user-friendly pitch to simplify your wellness journey.
 
 **URL**: (https://medimind-collective-cmqxtyy3d-rishis-projects-2075a3fb.vercel.app/)
@@ -50,6 +51,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
 
 
 
