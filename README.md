@@ -3,7 +3,7 @@
 <img src="public/favicon.png" alt="Medical Assistant App Screenshot" width="100" height="100"/>
 
 ## MedAssist is an intelligent, multi-agent application designed to provide preliminary medical guidance. It leverages the power of large language models to assist users in understanding symptoms, checking drug interactions, and answering general health questions in a secure and intuitive way.
-Core Problem
+**Core Problem**
 
 Accessing reliable and immediate medical information can be challenging. Users often face a sea of complex, and sometimes contradictory, information online. Furthermore, discussing sensitive health concerns requires a high degree of privacy that is not always guaranteed.
 Our Solution
@@ -76,6 +76,7 @@ https://medimind-collective-cmqxtyy3d-rishis-projects-2075a3fb.vercel.app/
 **Conclusion**
 
 MedAssist represents a step towards democratizing access to medical information. By combining a specialized multi-agent system with multimodal capabilities, it offers a powerful, private, and user-friendly tool for preliminary health guidance. Our vision is to empower individuals to take a more active role in understanding their health, bridging the gap between curiosity and professional medical advice.
+
 
 
 
