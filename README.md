@@ -10,14 +10,14 @@ Our Solution
 
 **MedAssist addresses these challenges with a three-pronged approach, embodied by its specialized AI agents:**
 
-    Symptom Checker Agent:
-    This agent allows users to describe their symptoms and, crucially, upload images (e.g., of a skin rash, a pill for identification) for a more comprehensive, multimodal       analysis. It provides potential insights and suggests appropriate next steps.
+Symptom Checker Agent:
+This agent allows users to describe their symptoms and, crucially, upload images (e.g., of a skin rash, a pill for identification) for a more comprehensive, multimodal       analysis. It provides potential insights and suggests appropriate next steps.
 
-    Drug Interaction Agent: 
-    Users can input multiple medications to check for potential adverse interactions, providing a critical layer of safety and information that is often difficult to find.
+Drug Interaction Agent: 
+Users can input multiple medications to check for potential adverse interactions, providing a critical layer of safety and information that is often difficult to find.
 
-    General Assistant Agent:
-    A conversational AI trained to answer a wide range of general medical questions, acting as an informative first point of contact.
+General Assistant Agent:
+A conversational AI trained to answer a wide range of general medical questions, acting as an informative first point of contact.
 
 **Key Features**
 
@@ -74,6 +74,7 @@ This project is built with:
 https://medimind-collective-cmqxtyy3d-rishis-projects-2075a3fb.vercel.app/
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
 
 
 
