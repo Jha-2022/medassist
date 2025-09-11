@@ -21,17 +21,17 @@ A conversational AI trained to answer a wide range of general medical questions,
 
 **Key Features**
 
-    Multi-Agent Architecture:
-    A sophisticated system where different AI agents handle specialized tasks for more accurate and relevant responses.
+Multi-Agent Architecture:
+A sophisticated system where different AI agents handle specialized tasks for more accurate and relevant responses.
 
-    Multimodal Input:
-    The ability to analyze both text and images to better understand a user's health concerns.
+Multimodal Input:
+The ability to analyze both text and images to better understand a user's health concerns.
 
-    User-Centric Design:
-    A clean, modern, and easy-to-navigate interface that makes complex information accessible.
+User-Centric Design:
+A clean, modern, and easy-to-navigate interface that makes complex information accessible.
 
-    Privacy-Focused:
-    Designed with user privacy in mind, creating a safe space for health inquiries.
+Privacy-Focused:
+Designed with user privacy in mind, creating a safe space for health inquiries.
 
 **URL**: (https://medimind-collective-cmqxtyy3d-rishis-projects-2075a3fb.vercel.app/)
 
@@ -74,6 +74,7 @@ This project is built with:
 https://medimind-collective-cmqxtyy3d-rishis-projects-2075a3fb.vercel.app/
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
 
 
 
