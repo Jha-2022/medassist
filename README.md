@@ -1,10 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to MedAssist
 
-## Project info
+## Your all-time medical companion, this app delivers instant health insights, appointment scheduling, and personalized care tips with a user-friendly pitch to simplify your wellness journey.
 
-**URL**: https://lovable.dev/projects/898aa9fe-c71c-490d-9e96-84af9d675c69
+**URL**: (https://medimind-collective-cmqxtyy3d-rishis-projects-2075a3fb.vercel.app/)
 
-## How can I edit this code?
+## How can I run the app?
 
 There are several ways of editing your application.
 
@@ -71,3 +71,4 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
