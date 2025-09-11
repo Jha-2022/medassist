@@ -73,7 +73,9 @@ This project is built with:
 
 https://medimind-collective-cmqxtyy3d-rishis-projects-2075a3fb.vercel.app/
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+**Conclusion**
+
+MedAssist represents a step towards democratizing access to medical information. By combining a specialized multi-agent system with multimodal capabilities, it offers a powerful, private, and user-friendly tool for preliminary health guidance. Our vision is to empower individuals to take a more active role in understanding their health, bridging the gap between curiosity and professional medical advice.
 
 
 
