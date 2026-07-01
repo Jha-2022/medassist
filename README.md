@@ -8,6 +8,12 @@
 Accessing reliable and immediate medical information can be challenging. Users often face a sea of complex, and sometimes contradictory, information online. Furthermore, discussing sensitive health concerns requires a high degree of privacy that is not always guaranteed.
 Our Solution
 
+
+
+https://github.com/user-attachments/assets/3dc7d0a8-f910-4c15-8faa-37c031377d2d
+
+
+
 ### MedAssist addresses these challenges with a three-pronged approach, embodied by its specialized AI agents:
 
 **Symptom Checker Agent:**
